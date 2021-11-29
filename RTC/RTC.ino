@@ -73,5 +73,5 @@ void loop()
   Serial.println(rtc.getTimeStr());
   
   // Wait one second before repeating :)
-  delay (2000);
+  delay (3000);
 }
